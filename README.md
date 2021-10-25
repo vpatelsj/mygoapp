@@ -78,3 +78,4 @@ me while working on this project.
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
+https://m.apkpure.com/google-play-store/com.android.vending
